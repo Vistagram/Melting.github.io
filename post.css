@@ -51,25 +51,6 @@ table {
 ____________CSS reset______________
 _________________________________*/
 
-.story-menu {
-	width: 100vw;
-	height: 100vw;
-	margin: auto;
-	margin-top: 7vh;
-	overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-}
-
-.story-box {
-	display: inline-block;
-	width: 100vw;
-}
-
-.story {
-	width: 100vw;
-}
-
 
 .back-box {
 	display: flex;
